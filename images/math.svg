@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="25mm"
+   viewBox="0 0 50 25"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Vesica piscis 2.svg">
+  <title
+     id="title956">Рыбий пузырь</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path928"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path922"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path925"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path928-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-5-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path928-5-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="61.277925"
+     inkscape:cy="47.482974"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Рыбий пузырь</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>24pm</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>geometry</rdf:li>
+            <rdf:li>circle</rdf:li>
+            <rdf:li>irrational numbers</rdf:li>
+            <rdf:li>Vesica piscis</rdf:li>
+            <rdf:li>Fish bladder</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-272)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path850"
+       d="m 19.663527,284.52963 c -9.454665,0 -9.454665,0 -9.454665,0"
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:0.98999999;vector-effect:none;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4504"
+       cx="10.2375"
+       cy="284.53439"
+       r="9.5" />
+    <circle
+       r="0.23958334"
+       cy="284.53439"
+       cx="10.237501"
+       id="circle4521"
+       style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="9.5"
+       cy="284.53439"
+       cx="19.762501"
+       id="circle4527"
+       style="opacity:0.98999999;vector-effect:none;fill:none;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:0.98999999;vector-effect:none;fill:#000000;fill-opacity:0.78431373;stroke:#000000;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4529"
+       cx="19.762501"
+       cy="284.53439"
+       r="0.23958334" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.8224049"
+       y="285.76434"
+       id="text4537"><tspan
+         sodipodi:role="line"
+         id="tspan4535"
+         x="8.8224049"
+         y="285.76434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.189625"
+       y="285.75919"
+       id="text4537-7"><tspan
+         sodipodi:role="line"
+         id="tspan4535-2"
+         x="23.189625"
+         y="285.75919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.538235"
+       y="275.11453"
+       id="text4537-2"><tspan
+         sodipodi:role="line"
+         id="tspan4535-6"
+         x="16.538235"
+         y="275.11453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.012781"
+       y="296.96918"
+       id="text4537-23"><tspan
+         sodipodi:role="line"
+         id="tspan4535-65"
+         x="21.012781"
+         y="296.96918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">D</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path868"
+       d="m 19.79892,275.27917 v 18.72278"
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.273917,275.06571 v 19.00121"
+       id="path870"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.79892,275.27917 -9.525003,18.78775"
+       id="path4533-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path896"
+       d="m 19.79892,275.27917 -9.519187,9.21502"
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.025786"
+       y="296.96555"
+       id="text4537-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan4535-6-1"
+         x="11.025786"
+         y="296.96555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">C</tspan></text>
+    <text
+       id="text918"
+       y="296.43637"
+       x="16.284159"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="296.43637"
+         x="16.284159"
+         id="tspan916"
+         sodipodi:role="line">N</tspan></text>
+    <text
+       id="text922"
+       y="274.58536"
+       x="20.695765"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+         y="274.58536"
+         x="20.695765"
+         id="tspan920"
+         sodipodi:role="line">F</tspan></text>
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.036421,276.29438 c 0,16.47049 0,16.47049 0,16.47049"
+       id="path4533"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1147"
+       transform="translate(-2.6458334,1.8440242)">
+      <g
+         transform="translate(0.56126601,1.298606)"
+         id="g1029">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05320024px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="50.327663"
+           y="282.18658"
+           id="text4537-7-6-4-9"
+           transform="scale(0.99877101,1.0012305)"><tspan
+             sodipodi:role="line"
+             id="tspan4535-2-8-7-6"
+             x="50.327663"
+             y="282.18658"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24256039px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">AF = √2</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path850-24"
+           d="m 50.621543,279.92665 c -2.201832,0 -2.201832,0 -2.201832,0"
+           style="fill:none;stroke:#000000;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.1475267,0,0,1.1503525,-10.204188,-24.22547)"
+         id="g860-1"
+         style="stroke-width:0.87036842">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23028497"
+           x="51.65443"
+           y="261.30432"
+           id="text4537-7-6-4-9-2"><tspan
+             sodipodi:role="line"
+             id="tspan4535-2-8-7-6-1"
+             x="51.65443"
+             y="261.30432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.23028497">АB = FB = 1</tspan></text>
+      </g>
+      <g
+         id="g1029-8"
+         transform="translate(0.56126601,5.0027729)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05320024px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="50.327663"
+           y="282.18658"
+           id="text4537-7-6-4-9-9"
+           transform="scale(0.99877101,1.0012305)"><tspan
+             sodipodi:role="line"
+             id="tspan4535-2-8-7-6-2"
+             x="50.327663"
+             y="282.18658"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24256039px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332">MN = √3</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path850-24-6"
+           d="m 50.621543,279.92665 c -2.201832,0 -2.201832,0 -2.201832,0"
+           style="fill:none;stroke:#000000;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1029-8-9"
+         transform="translate(0.56126601,8.7069398)">
+        <g
+           id="g1126">
+          <text
+             transform="scale(0.99877101,1.0012305)"
+             id="text4537-7-6-4-9-9-1"
+             y="282.18658"
+             x="50.327663"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05320024px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24256039px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+               y="282.18658"
+               x="50.327663"
+               id="tspan4535-2-8-7-6-2-4"
+               sodipodi:role="line">CF = √5</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 50.621543,279.92665 c -2.201832,0 -2.201832,0 -2.201832,0"
+             id="path850-24-6-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="translate(-6.1739261,-0.56677323)"
+         id="g1121">
+        <text
+           transform="scale(0.99877101,1.0012305)"
+           id="text1117"
+           y="280.41144"
+           x="55.291615"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.05320024px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24256039px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.26458332"
+             y="280.41144"
+             x="55.291615"
+             id="tspan1115"
+             sodipodi:role="line">FD = 2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
